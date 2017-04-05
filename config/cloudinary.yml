@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dir0kjrdl
+  api_key: '288539785227112'
+  api_secret: Op_pdtQb8RNemoFTFFl9QSsIwEI
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dir0kjrdl
+  api_key: '288539785227112'
+  api_secret: Op_pdtQb8RNemoFTFFl9QSsIwEI
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dir0kjrdl
+  api_key: '288539785227112'
+  api_secret: Op_pdtQb8RNemoFTFFl9QSsIwEI
+  enhance_image_tag: true
+  static_image_support: false
